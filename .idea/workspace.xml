@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2839865-8779-4779-aaa3-6ccef0ba5c3b" name="Default Changelist" comment="" />
+    <list default="true" id="b2839865-8779-4779-aaa3-6ccef0ba5c3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaFXTest/Test$$anon$2$$anon$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaFXTest/Test$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaFXTest/Test$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaFXTest/Test$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaFXTest/Test$player$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaFXTest/Test$player$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +18,14 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YXOH9Gqd3LLeN1eWSDKLaY3y7G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/Libraries/openjfx-13.0.2_windows-x64_bin-sdk/javafx-sdk-13.0.2/lib" />
@@ -72,7 +85,7 @@
       <workItem from="1583539176437" duration="3446000" />
       <workItem from="1583542905338" duration="4081000" />
       <workItem from="1583582910048" duration="13535000" />
-      <workItem from="1583603754626" duration="5693000" />
+      <workItem from="1583603754626" duration="8069000" />
     </task>
     <servers />
   </component>
@@ -92,22 +105,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583086870657" />
-    <state width="595" height="157" key="GridCell.Tab.0.bottom" timestamp="1583609426718">
+    <state width="595" height="184" key="GridCell.Tab.0.bottom" timestamp="1583611800514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583609426718" />
-    <state width="595" height="157" key="GridCell.Tab.0.center" timestamp="1583609426718">
+    <state width="595" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583611800514" />
+    <state width="595" height="184" key="GridCell.Tab.0.center" timestamp="1583611800514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583609426718" />
-    <state width="595" height="157" key="GridCell.Tab.0.left" timestamp="1583609426718">
+    <state width="595" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583611800514" />
+    <state width="595" height="184" key="GridCell.Tab.0.left" timestamp="1583611800514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583609426718" />
-    <state width="595" height="157" key="GridCell.Tab.0.right" timestamp="1583609426718">
+    <state width="595" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583611800514" />
+    <state width="595" height="184" key="GridCell.Tab.0.right" timestamp="1583611800514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583609426718" />
+    <state width="595" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583611800514" />
     <state x="207" y="0" key="SettingsEditor" timestamp="1583540363018">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -116,9 +129,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="181" y="64" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583254295678" />
-    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583545821769">
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583610829451">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583545821769" />
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583610829451" />
   </component>
 </project>

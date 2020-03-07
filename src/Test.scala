@@ -21,17 +21,17 @@ object Test extends JFXApp {
   }
 
   object player extends Line {
-    val angle = new Rotate() {
-      angle = 0
-    }
-
     stroke = White
-    strokeWidth = 5
+    strokeWidth = 3
     startX = 50
     startY = 50
+    val angle = new Rotate() {
+      angle = math.toRadians(0)
+      pivotX = startX.value
+      pivotY = startY.value
+    }
     endX = math.cos(angle.getAngle) * 5 + startX.value
     endY = math.sin(angle.getAngle) * 5 + startY.value
-
     def moveForward() = {
       startX = startX.value + math.cos(angle.getAngle)
       endX = startX.value + math.cos(angle.getAngle) * 5
@@ -47,10 +47,16 @@ object Test extends JFXApp {
       println("x:" + startX.value,endX.value + " --- y:" + startY.value,endY.value)
     }
     def turnLeft() = {
-      angle.setAngle(angle.getAngle - 0.1)
+      angle.setAngle(angle.getAngle - math.toRadians(5))
+      println(angle.getPivotX,angle.getPivotY,angle.getAngle)
+      endX = startX.value + math.cos(angle.getAngle) * 5
+      endY = startY.value + math.sin(angle.getAngle) * 5
     }
     def turnRight() = {
-
+      angle.setAngle(angle.getAngle + math.toRadians(5))
+      println(angle.getPivotX,angle.getPivotY,angle.getAngle)
+      endX = startX.value + math.cos(angle.getAngle) * 5
+      endY = startY.value + math.sin(angle.getAngle) * 5
     }
     def strafeLeft() = {
       startX = startX.value + math.sin(angle.getAngle)
@@ -66,8 +72,15 @@ object Test extends JFXApp {
       endY = startY.value + math.sin(angle.getAngle) * 5
       println("x:" + startX.value,endX.value + " --- y:" + startY.value,endY.value)
     }
+    new Line {
+      stroke = Red
+      strokeWidth = 3
+      startX = player.startX.value
+      startY = player.startY.value
+      endX = startX.value
+      endY = startY.value
+    }
   }
-
 
   stage = new PrimaryStage {
     scene = new Scene(340,120) {
@@ -80,10 +93,10 @@ object Test extends JFXApp {
         if (e.code == KeyCode.S) {
           player.moveBackward
         }
-        if (e.code == KeyCode.E) {
+        if (e.code == KeyCode.Q) {
           player.turnLeft
         }
-        if (e.code == KeyCode.Q) {
+        if (e.code == KeyCode.E) {
           player.turnRight
         }
         if (e.code == KeyCode.A) {

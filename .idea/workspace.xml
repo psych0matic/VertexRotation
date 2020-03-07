@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2839865-8779-4779-aaa3-6ccef0ba5c3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YXOH9Gqd3LLeN1eWSDKLaY3y7G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Libraries/openjfx-13.0.2_windows-x64_bin-sdk/javafx-sdk-13.0.2/lib" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="ScalaFXTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../scalafx" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2839865-8779-4779-aaa3-6ccef0ba5c3b" name="Default Changelist" comment="" />
+      <created>1583085386035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583085386035</updated>
+      <workItem from="1583085398879" duration="3602000" />
+      <workItem from="1583254106540" duration="186000" />
+      <workItem from="1583491090072" duration="2358000" />
+      <workItem from="1583539176437" duration="3446000" />
+      <workItem from="1583542905338" duration="4081000" />
+      <workItem from="1583582910048" duration="13535000" />
+      <workItem from="1583603754626" duration="5693000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="32" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583086175280">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="543" y="32" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1583086175280" />
+    <state x="557" y="51" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1583086519219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="557" y="51" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.680@0.0.1280.680" timestamp="1583086519219" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1583086870657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583086870657" />
+    <state width="595" height="157" key="GridCell.Tab.0.bottom" timestamp="1583609426718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583609426718" />
+    <state width="595" height="157" key="GridCell.Tab.0.center" timestamp="1583609426718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583609426718" />
+    <state width="595" height="157" key="GridCell.Tab.0.left" timestamp="1583609426718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583609426718" />
+    <state width="595" height="157" key="GridCell.Tab.0.right" timestamp="1583609426718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583609426718" />
+    <state x="207" y="0" key="SettingsEditor" timestamp="1583540363018">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="207" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583540363018" />
+    <state x="181" y="64" key="new project wizard" timestamp="1583254295678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="181" y="64" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583254295678" />
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583545821769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583545821769" />
+  </component>
+</project>
